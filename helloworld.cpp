@@ -2,9 +2,9 @@
 
 using namespace std;
 
-int int main() {
+int main() {
   /* code */
   std::cout << "Hello World!";
-  
+
   return 0;
 }
